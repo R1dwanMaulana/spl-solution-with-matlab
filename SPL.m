@@ -3,7 +3,7 @@ clc
 
 disp('========================================');
 disp('||            Metode Gauss            ||');
-disp('||           by Ridwan M.S            ||');
+disp('||                                    ||');
 disp('========================================');
 disp('')
 n=input('variabel SPL = ');
