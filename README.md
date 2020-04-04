@@ -1,2 +1,2 @@
 # spl-solution-with-matlab
-menggunakan metode gauss dengan matlab
+menggunakan metode gauss
